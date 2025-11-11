@@ -57,7 +57,7 @@ Non è solo un tema tecnico: influisce direttamente su **reputazione, continuit�
 
 Il **modello CIA** (Confidenzialità, Integrità, Disponibilità) è il pilastro:
 
-- **Confidenzialità:** solo chi è autorizzato può accedere ai dati.
+- **Confidenzialità:** solo chi è autorizzato può accedere ai dati (un PIN di un bancomat ).
 - **Integrità:** i dati devono restare corretti e coerenti.
 - **Disponibilità:** i sistemi devono essere sempre accessibili quando necessario.
 
